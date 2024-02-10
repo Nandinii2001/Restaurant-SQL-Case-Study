@@ -1,0 +1,501 @@
+order_id,customer_name,restaurant_id,order_date,quantity_of_items,order_amt,payment_mode,delivery_time_taken (mins),food_rating,delivery_rating
+OD1,Srini,6,01-01-2022 23:15,5,633,Debit Card,47,5,3
+OD2,Revandh,13,01-01-2022 19:21,5,258,Credit Card,41,3,5
+OD3,David,9,01-01-2022 23:15,7,594,Cash on Delivery,30,3,4
+OD4,Selva,4,01-01-2022 20:31,5,868,Cash on Delivery,30,3,4
+OD5,Vinny,4,01-01-2022 11:10,4,170,Debit Card,18,4,3
+OD6,Dev,16,01-01-2022 14:22,6,575,Cash on Delivery,21,5,2
+OD7,Meera,7,01-01-2022 20:35,2,102,Credit Card,41,4,3
+OD8,Sabeena,4,01-01-2022 14:31,4,321,Credit Card,35,2,1
+OD9,David,1,01-01-2022 13:39,5,248,Debit Card,27,3,4
+OD10,Rifa,12,01-01-2022 19:21,3,295,Cash on Delivery,49,2,1
+OD11,Dev,10,01-01-2022 23:58,6,607,Cash on Delivery,35,5,5
+OD12,Farhan,19,01-01-2022 11:17,7,916,Debit Card,21,2,1
+OD13,Suhaib,5,01-01-2022 20:35,6,813,Debit Card,44,5,1
+OD14,Swamy,11,01-01-2022 14:20,5,525,Debit Card,11,4,4
+OD15,Sweetie,12,01-01-2022 21:31,7,872,Credit Card,44,5,2
+OD16,Meera,1,01-01-2022 12:19,5,546,Cash on Delivery,28,5,2
+OD17,Shifa,19,01-01-2022 23:15,7,757,Cash on Delivery,27,3,5
+OD18,Selva,16,01-01-2022 12:00,1,80,Credit Card,39,5,1
+OD19,Srini,20,01-01-2022 11:19,6,692,Cash on Delivery,24,2,1
+OD20,Swamy,10,01-01-2022 21:39,5,464,Cash on Delivery,24,5,5
+OD21,Charlie,3,01-01-2022 11:10,6,686,Cash on Delivery,35,3,3
+OD22,Suhaib,1,01-01-2022 17:39,7,630,Cash on Delivery,37,3,3
+OD23,Meera,1,01-01-2022 14:31,1,28,Debit Card,29,3,2
+OD24,Dev,16,01-01-2022 12:19,6,575,Credit Card,41,3,4
+OD25,Suhaib,3,01-01-2022 14:21,5,234,Debit Card,50,4,4
+OD26,Suhaib,4,01-01-2022 17:39,4,262,Credit Card,31,5,4
+OD27,David,7,01-01-2022 14:31,5,887,Debit Card,37,2,4
+OD28,Farhan,8,01-01-2022 20:31,7,586,Debit Card,39,4,4
+OD29,Veer,7,01-01-2022 12:00,7,872,Cash on Delivery,28,2,5
+OD30,Swamy,2,01-01-2022 12:00,5,528,Debit Card,33,3,4
+OD31,Srini,8,01-01-2022 12:19,4,304,Credit Card,15,5,1
+OD32,Veer,14,01-01-2022 13:39,5,370,Cash on Delivery,35,3,5
+OD33,Farhan,13,01-01-2022 13:39,5,873,Cash on Delivery,31,5,5
+OD34,Selva,20,01-01-2022 18:01,6,645,Credit Card,46,2,1
+OD35,Charlie,7,01-01-2022 14:31,6,514,Debit Card,28,3,2
+OD36,Selva,17,01-01-2022 11:15,7,635,Cash on Delivery,14,3,5
+OD37,Revandh,10,01-01-2022 18:01,4,474,Cash on Delivery,19,2,4
+OD38,Chinny,13,01-01-2022 23:15,7,999,Credit Card,32,2,5
+OD39,Meera,8,01-01-2022 23:58,5,324,Debit Card,36,3,3
+OD40,Gopal,17,01-01-2022 12:19,1,29,Credit Card,22,5,5
+OD41,Vinny,14,01-01-2022 12:19,5,394,Debit Card,13,4,2
+OD42,Suhaib,12,01-01-2022 13:30,1,125,Cash on Delivery,28,5,1
+OD43,Charlie,8,01-01-2022 12:00,3,449,Debit Card,44,3,2
+OD44,Meera,14,01-01-2022 14:10,2,3,Cash on Delivery,37,4,4
+OD45,Veer,18,01-01-2022 19:21,4,478,Debit Card,15,2,2
+OD46,Swamy,9,01-01-2022 18:01,7,744,Credit Card,45,3,2
+OD47,Veronica,19,01-01-2022 23:58,7,865,Credit Card,43,5,5
+OD48,Fastin,17,01-01-2022 15:22,5,439,Credit Card,42,5,3
+OD49,Meera,12,01-01-2022 21:39,4,356,Debit Card,50,4,1
+OD50,Swamy,15,01-01-2022 14:20,6,946,Cash on Delivery,30,4,4
+OD51,Sabeena,18,01-01-2022 19:21,1,27,Credit Card,39,3,4
+OD52,Swamy,5,01-01-2022 12:00,3,253,Cash on Delivery,21,2,2
+OD53,Farhan,4,01-01-2022 14:22,6,941,Debit Card,18,2,4
+OD54,Sweetie,13,01-01-2022 12:00,7,716,Credit Card,13,4,4
+OD55,Gopal,20,01-01-2022 22:01,1,79,Cash on Delivery,28,5,3
+OD56,Rifa,12,01-01-2022 23:15,4,254,Cash on Delivery,32,2,4
+OD57,Fastin,12,01-01-2022 18:01,2,6,Credit Card,36,4,3
+OD58,David,1,01-01-2022 11:19,6,953,Debit Card,24,3,3
+OD59,Meera,13,01-01-2022 11:19,5,645,Cash on Delivery,19,3,1
+OD60,Meera,13,01-01-2022 11:19,7,979,Credit Card,44,2,3
+OD61,Rifa,4,01-01-2022 14:10,2,114,Credit Card,21,3,3
+OD62,Swamy,1,01-01-2022 21:39,4,279,Credit Card,18,4,3
+OD63,Selva,20,01-01-2022 11:10,1,91,Credit Card,24,3,1
+OD64,Farhan,15,01-01-2022 14:22,2,20,Credit Card,33,4,4
+OD65,Sweetie,7,01-01-2022 20:35,2,124,Credit Card,19,4,4
+OD66,David,3,01-01-2022 18:01,2,120,Cash on Delivery,31,3,5
+OD67,Charlie,9,01-01-2022 13:30,5,471,Cash on Delivery,39,5,5
+OD68,Gopal,6,01-01-2022 11:10,5,345,Cash on Delivery,22,4,5
+OD69,Chinny,19,01-01-2022 12:19,3,462,Debit Card,33,3,2
+OD70,Revandh,9,01-01-2022 11:17,7,527,Debit Card,44,5,4
+OD71,Swamy,8,01-01-2022 13:30,3,412,Cash on Delivery,16,3,4
+OD72,Srini,13,01-01-2022 11:15,4,459,Credit Card,43,4,1
+OD73,Farhan,9,01-01-2022 14:20,6,941,Cash on Delivery,11,5,3
+OD74,Dev,13,01-01-2022 14:10,3,471,Debit Card,36,5,2
+OD75,Ram,7,01-01-2022 20:35,5,942,Cash on Delivery,41,5,5
+OD76,Srini,6,01-01-2022 12:19,7,934,Debit Card,30,2,4
+OD77,Vinny,12,01-01-2022 14:10,5,534,Cash on Delivery,20,5,4
+OD78,Vinny,6,01-01-2022 11:15,5,908,Debit Card,15,3,2
+OD79,Swamy,16,01-01-2022 19:21,6,698,Credit Card,21,3,4
+OD80,Sabeena,16,01-01-2022 19:21,1,50,Cash on Delivery,27,3,5
+OD81,Veer,3,01-01-2022 17:39,5,436,Debit Card,19,5,4
+OD82,Charlie,18,01-01-2022 11:15,5,882,Cash on Delivery,24,3,1
+OD83,Shifa,2,01-01-2022 23:58,2,50,Debit Card,33,2,2
+OD84,Srini,14,01-01-2022 14:20,7,704,Cash on Delivery,47,2,4
+OD85,Ram,13,01-01-2022 23:58,5,603,Debit Card,28,5,4
+OD86,Farhan,10,01-01-2022 20:31,5,602,Debit Card,12,4,3
+OD87,Dev,12,01-01-2022 18:01,4,196,Debit Card,50,2,2
+OD88,Veronica,18,01-01-2022 17:39,1,94,Debit Card,20,2,3
+OD89,Gopal,16,01-01-2022 11:17,7,501,Credit Card,15,2,3
+OD90,Shifa,13,01-01-2022 20:35,5,710,Credit Card,45,4,3
+OD91,Gopal,8,01-01-2022 14:20,4,305,Credit Card,48,2,1
+OD92,Swamy,8,01-01-2022 20:31,6,891,Debit Card,25,5,5
+OD93,Charlie,2,01-01-2022 14:21,5,412,Credit Card,48,4,4
+OD94,Suhaib,20,01-01-2022 14:31,3,455,Debit Card,25,5,5
+OD95,Charlie,5,01-01-2022 14:22,6,953,Credit Card,39,3,1
+OD96,David,6,01-01-2022 15:22,4,300,Cash on Delivery,27,2,2
+OD97,Dev,7,01-01-2022 19:21,2,11,Cash on Delivery,21,5,1
+OD98,Swamy,3,01-01-2022 14:22,4,219,Cash on Delivery,13,2,3
+OD99,Vinny,10,01-01-2022 23:15,6,771,Debit Card,21,2,5
+OD100,Srini,6,01-01-2022 11:10,7,936,Credit Card,25,2,1
+OD101,Srini,6,01-01-2022 23:58,5,341,Credit Card,40,2,4
+OD102,Farhan,14,01-01-2022 20:35,2,78,Debit Card,32,5,1
+OD103,Srini,19,01-01-2022 21:31,7,723,Debit Card,25,4,2
+OD104,Selva,20,01-01-2022 21:39,5,207,Debit Card,22,2,4
+OD105,Vinny,1,01-01-2022 21:39,4,411,Cash on Delivery,26,5,4
+OD106,Shifa,18,01-01-2022 14:20,1,133,Cash on Delivery,39,4,1
+OD107,Suhaib,6,01-01-2022 11:10,1,124,Cash on Delivery,45,5,3
+OD108,Chinny,16,01-01-2022 12:19,5,830,Debit Card,49,3,2
+OD109,Meera,18,01-01-2022 21:31,6,886,Debit Card,18,5,5
+OD110,Suhaib,8,01-01-2022 12:00,5,374,Cash on Delivery,22,5,5
+OD111,Veer,20,01-01-2022 14:31,5,585,Debit Card,43,2,2
+OD112,Revandh,14,01-01-2022 14:31,5,580,Debit Card,18,3,4
+OD113,Meera,4,01-01-2022 13:39,6,590,Cash on Delivery,49,4,3
+OD114,Rifa,11,01-01-2022 11:17,7,884,Debit Card,13,4,2
+OD115,Selva,15,01-01-2022 15:22,1,41,Cash on Delivery,27,5,3
+OD116,Srini,4,01-01-2022 12:00,5,485,Cash on Delivery,22,2,3
+OD117,Suhaib,5,01-01-2022 14:20,3,269,Credit Card,33,3,2
+OD118,Fastin,13,01-01-2022 23:15,4,391,Credit Card,20,2,3
+OD119,Meera,9,01-01-2022 12:19,4,220,Debit Card,18,3,3
+OD120,Revandh,9,01-01-2022 20:31,5,478,Debit Card,19,2,2
+OD121,Srini,3,01-01-2022 13:39,3,359,Credit Card,46,2,4
+OD122,Chinny,1,01-01-2022 20:31,4,254,Credit Card,36,4,5
+OD123,Sweetie,18,01-01-2022 11:10,6,539,Debit Card,43,2,3
+OD124,Suhaib,1,01-01-2022 12:19,4,376,Cash on Delivery,46,3,4
+OD125,Ram,16,01-01-2022 14:22,6,786,Cash on Delivery,37,2,2
+OD126,Vinny,10,01-01-2022 11:17,3,294,Debit Card,32,2,1
+OD127,Vinny,14,01-01-2022 14:20,5,871,Credit Card,25,4,2
+OD128,Fastin,18,01-01-2022 14:20,5,232,Credit Card,46,5,2
+OD129,Suhaib,9,01-01-2022 11:15,3,432,Debit Card,21,3,4
+OD130,Veer,15,01-01-2022 19:21,4,179,Credit Card,47,4,3
+OD131,Selva,17,01-01-2022 20:35,5,359,Cash on Delivery,37,2,1
+OD132,David,12,01-01-2022 15:22,5,882,Debit Card,29,5,4
+OD133,Veer,1,01-01-2022 14:20,5,426,Debit Card,26,3,4
+OD134,Vinny,6,01-01-2022 23:58,7,568,Cash on Delivery,43,5,3
+OD135,Gopal,3,01-01-2022 15:22,4,352,Cash on Delivery,28,3,4
+OD136,Chinny,19,01-01-2022 19:21,5,226,Debit Card,39,2,3
+OD137,Charlie,14,01-01-2022 11:19,5,679,Debit Card,11,3,1
+OD138,Charlie,12,01-01-2022 15:22,3,273,Cash on Delivery,37,5,2
+OD139,Rifa,12,01-01-2022 23:15,2,78,Credit Card,12,4,5
+OD140,Srini,10,01-01-2022 22:01,3,489,Debit Card,28,3,4
+OD141,Rifa,3,01-01-2022 20:31,7,964,Debit Card,27,3,2
+OD142,Meera,12,01-01-2022 13:31,2,56,Cash on Delivery,41,2,3
+OD143,Revandh,4,01-01-2022 14:31,1,140,Debit Card,47,5,1
+OD144,Sweetie,20,01-01-2022 13:30,7,703,Cash on Delivery,49,5,2
+OD145,Charlie,6,01-01-2022 11:15,4,287,Debit Card,36,4,3
+OD146,Farhan,6,01-01-2022 14:31,3,444,Cash on Delivery,15,3,1
+OD147,Srini,20,01-01-2022 11:10,2,61,Debit Card,38,5,3
+OD148,Swamy,20,01-01-2022 17:39,3,347,Cash on Delivery,35,2,2
+OD149,Veronica,2,01-01-2022 14:22,3,264,Cash on Delivery,44,2,2
+OD150,Suhaib,6,01-01-2022 11:17,5,712,Cash on Delivery,28,3,3
+OD151,Chinny,20,01-01-2022 19:21,1,86,Cash on Delivery,23,2,2
+OD152,Ram,9,01-01-2022 23:58,1,45,Debit Card,13,4,1
+OD153,Rifa,16,01-01-2022 23:58,7,719,Credit Card,21,3,5
+OD154,Vinny,20,01-01-2022 21:39,7,772,Credit Card,49,5,1
+OD155,Farhan,20,01-01-2022 20:31,6,672,Cash on Delivery,46,4,3
+OD156,Veer,7,01-01-2022 13:31,7,969,Cash on Delivery,23,3,3
+OD157,Rifa,1,01-01-2022 14:22,2,125,Debit Card,10,5,5
+OD158,Fastin,9,01-01-2022 13:39,1,134,Debit Card,27,2,2
+OD159,Swamy,3,01-01-2022 11:19,5,616,Debit Card,41,2,3
+OD160,Sabeena,16,01-01-2022 13:39,5,892,Debit Card,50,4,3
+OD161,Fastin,6,01-01-2022 12:00,7,686,Credit Card,25,4,3
+OD162,Ram,1,01-01-2022 15:22,5,422,Credit Card,14,5,1
+OD163,Veer,18,01-01-2022 12:19,7,814,Debit Card,10,3,5
+OD164,Rifa,16,01-01-2022 14:10,6,583,Credit Card,49,5,2
+OD165,Veer,2,01-01-2022 18:01,5,721,Credit Card,48,2,2
+OD166,Ram,18,01-01-2022 12:00,5,173,Cash on Delivery,41,4,4
+OD167,Sabeena,2,01-01-2022 23:15,4,379,Credit Card,12,2,3
+OD168,Sweetie,9,01-01-2022 21:31,4,318,Debit Card,21,2,1
+OD169,Farhan,17,01-01-2022 19:21,6,724,Credit Card,45,5,2
+OD170,Fastin,16,01-01-2022 11:19,6,789,Credit Card,26,5,5
+OD171,Ram,19,01-01-2022 22:01,4,353,Cash on Delivery,44,3,3
+OD172,Meera,20,01-01-2022 14:21,1,12,Debit Card,24,4,3
+OD173,Suhaib,19,01-01-2022 15:22,1,127,Credit Card,43,5,2
+OD174,Fastin,19,01-01-2022 23:15,1,102,Debit Card,48,4,2
+OD175,Revandh,4,01-01-2022 13:31,7,965,Credit Card,15,4,2
+OD176,Suhaib,2,01-01-2022 22:01,1,40,Credit Card,28,2,2
+OD177,Vinny,5,01-01-2022 21:39,4,315,Debit Card,26,3,2
+OD178,Farhan,1,01-01-2022 13:39,4,323,Cash on Delivery,41,2,4
+OD179,Suhaib,18,01-01-2022 12:00,4,156,Debit Card,25,5,3
+OD180,Revandh,10,01-01-2022 14:22,2,59,Credit Card,14,5,1
+OD181,Chinny,10,01-01-2022 15:22,1,116,Cash on Delivery,45,4,2
+OD182,Dev,16,01-01-2022 11:10,5,179,Credit Card,13,5,3
+OD183,Revandh,14,01-01-2022 13:30,4,331,Credit Card,45,2,5
+OD184,Revandh,8,01-01-2022 20:35,5,679,Cash on Delivery,17,4,2
+OD185,Ram,7,01-01-2022 13:30,4,200,Debit Card,16,4,2
+OD186,Gopal,3,01-01-2022 20:35,7,588,Debit Card,49,2,1
+OD187,David,12,01-01-2022 13:39,5,188,Debit Card,28,3,3
+OD188,Ram,17,01-01-2022 18:01,1,93,Credit Card,30,3,4
+OD189,Rifa,13,01-01-2022 12:00,5,512,Credit Card,35,3,1
+OD190,Revandh,11,01-01-2022 21:31,6,729,Cash on Delivery,34,4,2
+OD191,Veronica,10,01-01-2022 15:22,5,691,Cash on Delivery,41,2,4
+OD192,Dev,12,01-01-2022 14:31,3,317,Debit Card,50,5,5
+OD193,Meera,9,01-01-2022 11:15,4,364,Cash on Delivery,24,3,3
+OD194,Dev,9,01-01-2022 22:01,7,866,Cash on Delivery,41,4,3
+OD195,Ram,6,01-01-2022 12:19,4,233,Debit Card,12,3,1
+OD196,Rifa,8,01-01-2022 13:31,6,906,Debit Card,28,3,1
+OD197,Swamy,18,01-01-2022 14:22,7,684,Credit Card,35,5,3
+OD198,Veer,8,01-01-2022 23:15,3,470,Credit Card,39,4,4
+OD199,Meera,15,01-01-2022 14:20,7,542,Cash on Delivery,14,5,1
+OD200,Vinny,2,01-01-2022 17:39,5,630,Cash on Delivery,43,5,4
+OD201,Suhaib,13,01-01-2022 11:10,1,19,Cash on Delivery,48,3,1
+OD202,Veer,1,01-01-2022 14:10,5,937,Credit Card,11,4,4
+OD203,Sweetie,17,01-01-2022 14:31,7,835,Debit Card,14,4,5
+OD204,Veer,1,01-01-2022 23:58,5,977,Debit Card,30,3,3
+OD205,Sabeena,12,01-01-2022 14:10,7,691,Debit Card,47,5,5
+OD206,Meera,18,01-01-2022 22:01,5,656,Credit Card,11,5,5
+OD207,Veronica,5,01-01-2022 12:00,5,933,Credit Card,44,3,2
+OD208,Fastin,16,01-01-2022 17:39,7,607,Credit Card,49,3,1
+OD209,Meera,9,01-01-2022 14:20,6,976,Debit Card,49,4,3
+OD210,Shifa,1,01-01-2022 13:39,5,229,Credit Card,22,4,2
+OD211,Farhan,3,01-01-2022 18:01,6,941,Cash on Delivery,13,4,5
+OD212,Ram,4,01-01-2022 14:21,5,452,Debit Card,21,5,3
+OD213,Ram,14,01-01-2022 13:30,1,36,Cash on Delivery,10,2,5
+OD214,Meera,12,01-01-2022 12:00,6,736,Cash on Delivery,19,2,2
+OD215,Chinny,20,01-01-2022 19:21,1,138,Debit Card,26,4,4
+OD216,Selva,14,01-01-2022 14:31,2,21,Debit Card,50,2,1
+OD217,Dev,5,01-01-2022 19:21,6,591,Debit Card,37,5,5
+OD218,Gopal,14,01-01-2022 20:31,4,452,Debit Card,32,2,4
+OD219,Meera,12,01-01-2022 17:39,3,345,Cash on Delivery,20,2,1
+OD220,Selva,6,01-01-2022 11:19,6,885,Debit Card,24,2,4
+OD221,Farhan,16,01-01-2022 23:15,5,844,Credit Card,15,5,2
+OD222,Selva,5,01-01-2022 14:10,4,167,Debit Card,23,3,4
+OD223,Srini,17,01-01-2022 15:22,5,669,Credit Card,26,5,1
+OD224,Srini,6,01-01-2022 23:58,7,633,Credit Card,49,4,4
+OD225,Dev,7,01-01-2022 14:21,2,22,Debit Card,18,4,1
+OD226,Rifa,18,01-01-2022 13:30,6,502,Credit Card,50,5,3
+OD227,David,1,01-01-2022 12:00,7,745,Credit Card,39,3,5
+OD228,David,15,01-01-2022 14:10,7,578,Debit Card,37,5,4
+OD229,Srini,8,01-01-2022 20:35,6,629,Cash on Delivery,18,2,1
+OD230,Swamy,18,01-01-2022 22:01,5,223,Cash on Delivery,44,4,3
+OD231,Revandh,19,01-01-2022 22:01,2,133,Cash on Delivery,23,4,4
+OD232,Veronica,19,01-01-2022 20:31,5,920,Credit Card,17,5,1
+OD233,Fastin,7,01-01-2022 19:21,6,945,Credit Card,36,4,1
+OD234,Revandh,7,01-01-2022 14:22,7,721,Debit Card,39,4,4
+OD235,Veronica,4,01-01-2022 12:19,5,680,Cash on Delivery,49,2,5
+OD236,Chinny,2,01-01-2022 11:15,7,690,Cash on Delivery,16,4,2
+OD237,Shifa,16,01-01-2022 17:39,3,412,Credit Card,39,4,3
+OD238,Shifa,3,01-01-2022 14:20,2,86,Credit Card,23,3,1
+OD239,Swamy,10,01-01-2022 13:39,2,93,Debit Card,43,2,1
+OD240,Charlie,6,01-01-2022 20:31,5,568,Credit Card,48,3,3
+OD241,Sabeena,4,01-01-2022 13:30,5,370,Debit Card,48,2,2
+OD242,Srini,14,01-01-2022 20:35,7,756,Credit Card,36,4,4
+OD243,Rifa,3,01-01-2022 20:35,5,624,Debit Card,39,3,5
+OD244,Gopal,13,01-01-2022 20:31,5,366,Credit Card,21,4,5
+OD245,Srini,6,01-01-2022 14:22,1,143,Credit Card,20,5,5
+OD246,Rifa,15,01-01-2022 11:15,5,668,Cash on Delivery,25,4,3
+OD247,Chinny,14,01-01-2022 19:21,4,377,Credit Card,50,4,1
+OD248,Sabeena,17,01-01-2022 11:15,5,706,Credit Card,35,3,1
+OD249,David,7,01-01-2022 23:58,1,37,Credit Card,50,3,4
+OD250,Sabeena,6,01-01-2022 14:21,4,224,Cash on Delivery,22,2,4
+OD251,Revandh,18,01-01-2022 18:01,3,478,Credit Card,48,3,5
+OD252,Veer,17,01-01-2022 14:31,5,995,Credit Card,46,4,2
+OD253,Selva,9,01-01-2022 13:30,4,260,Cash on Delivery,29,4,3
+OD254,Vinny,6,01-01-2022 20:31,7,815,Credit Card,24,4,3
+OD255,Shifa,20,01-01-2022 14:31,6,965,Credit Card,30,3,1
+OD256,Veer,8,01-01-2022 19:21,3,256,Debit Card,44,4,1
+OD257,Rifa,4,01-01-2022 12:19,5,777,Debit Card,38,5,3
+OD258,Srini,19,01-01-2022 15:22,7,674,Credit Card,21,4,3
+OD259,Suhaib,7,01-01-2022 12:19,2,134,Credit Card,29,3,4
+OD260,Veer,5,01-01-2022 23:15,5,775,Cash on Delivery,33,3,1
+OD261,Ram,19,01-01-2022 14:10,7,853,Cash on Delivery,39,3,2
+OD262,Sabeena,10,01-01-2022 11:19,7,940,Debit Card,31,2,1
+OD263,Revandh,11,01-01-2022 22:01,2,124,Debit Card,30,2,1
+OD264,Farhan,12,01-01-2022 11:19,4,278,Credit Card,42,5,1
+OD265,Shifa,15,01-01-2022 11:19,5,682,Cash on Delivery,30,3,3
+OD266,Ram,16,01-01-2022 20:35,6,804,Cash on Delivery,25,3,5
+OD267,Srini,3,01-01-2022 14:31,2,99,Cash on Delivery,12,3,3
+OD268,Sabeena,19,01-01-2022 11:15,6,964,Cash on Delivery,30,3,4
+OD269,Gopal,17,01-01-2022 14:31,5,938,Cash on Delivery,35,2,1
+OD270,Farhan,8,01-01-2022 20:31,7,857,Cash on Delivery,13,2,2
+OD271,Srini,8,01-01-2022 11:10,7,570,Cash on Delivery,19,2,1
+OD272,Sweetie,4,01-01-2022 15:22,5,419,Cash on Delivery,39,4,5
+OD273,Srini,9,01-01-2022 17:39,4,334,Cash on Delivery,14,3,1
+OD274,Selva,5,01-01-2022 18:01,6,767,Credit Card,29,3,4
+OD275,Swamy,20,01-01-2022 22:01,2,125,Cash on Delivery,30,2,4
+OD276,Sweetie,16,01-01-2022 12:00,2,76,Cash on Delivery,31,5,5
+OD277,Suhaib,18,01-01-2022 11:19,6,649,Debit Card,35,2,4
+OD278,Sweetie,3,01-01-2022 13:31,3,352,Debit Card,30,3,1
+OD279,Srini,18,01-01-2022 11:15,5,707,Credit Card,31,4,5
+OD280,Gopal,11,01-01-2022 12:00,5,500,Cash on Delivery,36,3,2
+OD281,Rifa,5,01-01-2022 23:58,6,802,Cash on Delivery,22,2,2
+OD282,Meera,10,01-01-2022 14:31,5,164,Cash on Delivery,16,2,5
+OD283,Veronica,18,01-01-2022 17:39,4,293,Cash on Delivery,34,4,2
+OD284,Shifa,16,01-01-2022 11:17,5,377,Cash on Delivery,24,3,2
+OD285,Dev,13,01-01-2022 11:15,5,538,Debit Card,25,4,3
+OD286,Rifa,11,01-01-2022 14:10,5,761,Debit Card,34,2,5
+OD287,Ram,16,01-01-2022 20:31,6,567,Cash on Delivery,40,5,2
+OD288,Revandh,14,01-01-2022 12:19,7,944,Cash on Delivery,41,5,2
+OD289,Revandh,11,01-01-2022 19:21,7,806,Cash on Delivery,23,5,5
+OD290,Selva,14,01-01-2022 23:15,6,722,Debit Card,20,2,1
+OD291,Shifa,6,01-01-2022 12:19,5,721,Debit Card,14,2,3
+OD292,Srini,15,01-01-2022 20:35,7,636,Cash on Delivery,29,5,1
+OD293,Farhan,7,01-01-2022 13:30,5,628,Cash on Delivery,31,5,1
+OD294,David,13,01-01-2022 19:21,2,100,Cash on Delivery,46,3,4
+OD295,Meera,18,01-01-2022 19:21,5,372,Debit Card,40,4,3
+OD296,Rifa,13,01-01-2022 23:58,7,660,Debit Card,11,2,4
+OD297,Farhan,8,01-01-2022 13:39,1,65,Credit Card,23,2,4
+OD298,Rifa,1,01-01-2022 14:20,5,337,Cash on Delivery,23,3,1
+OD299,Veer,12,01-01-2022 19:21,6,606,Cash on Delivery,25,2,3
+OD300,Ram,3,01-01-2022 20:35,6,713,Cash on Delivery,25,5,2
+OD301,Veronica,2,01-01-2022 11:17,3,511,Debit Card,17,5,2
+OD302,Ram,17,01-01-2022 13:30,5,446,Credit Card,32,3,4
+OD303,Fastin,14,01-01-2022 13:39,3,743,Credit Card,37,2,4
+OD304,Gopal,3,01-01-2022 22:01,7,853,Cash on Delivery,40,4,4
+OD305,Revandh,2,01-01-2022 21:31,3,618,Cash on Delivery,23,4,4
+OD306,Srini,7,01-01-2022 23:58,3,639,Credit Card,49,2,3
+OD307,Rifa,2,01-01-2022 21:31,6,973,Cash on Delivery,47,4,2
+OD308,Swamy,13,01-01-2022 14:31,5,551,Cash on Delivery,32,2,1
+OD309,Revandh,18,01-01-2022 11:19,3,488,Debit Card,49,2,1
+OD310,Gopal,2,01-01-2022 19:21,7,878,Debit Card,47,2,2
+OD311,Vinny,13,01-01-2022 13:30,5,1082,Debit Card,16,1,1
+OD312,Ram,1,01-01-2022 19:21,7,872,Cash on Delivery,43,2,4
+OD313,Farhan,17,01-01-2022 14:20,4,727,Debit Card,12,5,5
+OD314,Sabeena,18,01-01-2022 12:19,5,1048,Cash on Delivery,15,3,2
+OD315,Chinny,12,01-01-2022 21:39,3,634,Debit Card,44,3,4
+OD316,David,17,01-01-2022 13:39,3,651,Credit Card,33,2,2
+OD317,Swamy,16,01-01-2022 15:22,6,817,Cash on Delivery,49,2,4
+OD318,Meera,16,01-01-2022 23:58,4,782,Credit Card,48,1,3
+OD319,Veer,1,01-01-2022 14:22,5,819,Credit Card,21,3,4
+OD320,Suhaib,13,01-01-2022 11:15,5,991,Debit Card,45,1,4
+OD321,Charlie,4,01-01-2022 17:39,3,418,Debit Card,46,1,5
+OD322,David,1,01-01-2022 11:10,4,400,Debit Card,26,5,4
+OD323,Vinny,13,01-01-2022 20:31,6,926,Debit Card,47,2,2
+OD324,Revandh,20,01-01-2022 17:39,6,849,Debit Card,23,5,3
+OD325,David,8,01-01-2022 13:31,7,993,Cash on Delivery,23,5,5
+OD326,Gopal,1,01-01-2022 17:39,4,508,Cash on Delivery,23,3,3
+OD327,Sabeena,4,01-01-2022 14:21,7,828,Debit Card,15,1,1
+OD328,Veer,18,01-01-2022 13:39,5,750,Debit Card,43,5,5
+OD329,Vinny,8,01-01-2022 14:21,3,543,Debit Card,43,5,4
+OD330,David,13,01-01-2022 21:31,6,1091,Cash on Delivery,10,2,2
+OD331,Suhaib,11,01-01-2022 21:39,5,1091,Debit Card,50,1,5
+OD332,David,3,01-01-2022 19:21,4,736,Credit Card,50,4,1
+OD333,Chinny,19,01-01-2022 22:01,5,1081,Debit Card,29,2,2
+OD334,Dev,5,01-01-2022 21:31,5,729,Debit Card,11,1,4
+OD335,Dev,20,01-01-2022 13:30,3,709,Credit Card,19,5,2
+OD336,Charlie,5,01-01-2022 14:31,3,692,Credit Card,10,5,3
+OD337,Gopal,10,01-01-2022 18:01,3,789,Cash on Delivery,41,5,5
+OD338,Gopal,2,01-01-2022 23:15,4,539,Cash on Delivery,27,4,2
+OD339,Srini,17,01-01-2022 21:39,3,590,Debit Card,31,1,3
+OD340,Sabeena,6,01-01-2022 11:19,6,1068,Cash on Delivery,13,3,5
+OD341,Rifa,12,01-01-2022 12:19,6,989,Credit Card,22,5,3
+OD342,Sweetie,13,01-01-2022 11:17,5,734,Cash on Delivery,16,4,1
+OD343,Srini,10,01-01-2022 14:20,3,520,Credit Card,10,2,1
+OD344,Shifa,17,01-01-2022 12:19,5,1010,Debit Card,46,4,1
+OD345,Suhaib,9,01-01-2022 20:31,3,478,Credit Card,39,4,3
+OD346,Rifa,2,01-01-2022 13:30,4,428,Cash on Delivery,10,4,5
+OD347,Charlie,3,01-01-2022 11:19,4,703,Debit Card,12,2,2
+OD348,Ram,6,01-01-2022 11:10,5,446,Cash on Delivery,49,5,2
+OD349,David,16,01-01-2022 21:39,3,546,Credit Card,29,1,3
+OD350,Meera,18,01-01-2022 11:19,6,833,Cash on Delivery,36,3,4
+OD351,Ram,5,01-01-2022 11:17,4,778,Debit Card,47,3,4
+OD352,Dev,1,01-01-2022 14:20,3,596,Debit Card,22,3,5
+OD353,Veronica,9,01-01-2022 22:01,3,639,Credit Card,16,5,4
+OD354,Shifa,14,01-01-2022 21:39,4,501,Cash on Delivery,39,4,1
+OD355,Charlie,6,01-01-2022 12:19,5,799,Credit Card,40,2,1
+OD356,Veer,2,01-01-2022 21:31,6,856,Debit Card,29,5,2
+OD357,Shifa,19,01-01-2022 23:58,7,865,Credit Card,32,4,5
+OD358,Suhaib,8,01-01-2022 20:35,4,711,Credit Card,23,5,3
+OD359,Ram,5,01-01-2022 17:39,6,947,Debit Card,20,2,4
+OD360,Sabeena,10,01-01-2022 20:31,4,777,Debit Card,13,3,1
+OD361,Rifa,6,01-01-2022 19:21,5,841,Debit Card,50,1,1
+OD362,Sabeena,19,01-01-2022 13:39,4,789,Credit Card,26,4,4
+OD363,Swamy,3,01-01-2022 11:17,4,600,Credit Card,15,5,4
+OD364,Veer,11,01-01-2022 13:39,6,1160,Cash on Delivery,31,3,1
+OD365,David,19,01-01-2022 14:22,5,767,Credit Card,11,2,2
+OD366,Selva,9,01-01-2022 14:21,4,731,Cash on Delivery,44,4,4
+OD367,Vinny,6,01-01-2022 11:10,4,787,Debit Card,44,1,1
+OD368,Ram,19,01-01-2022 13:39,5,794,Cash on Delivery,42,2,1
+OD369,Shifa,5,01-01-2022 14:22,5,1193,Debit Card,39,5,2
+OD370,Vinny,11,01-01-2022 11:15,7,801,Credit Card,19,2,2
+OD371,Sabeena,17,01-01-2022 14:22,5,835,Credit Card,27,4,3
+OD372,Charlie,1,01-01-2022 23:58,7,913,Cash on Delivery,13,4,2
+OD373,Dev,10,01-01-2022 15:22,6,1050,Debit Card,38,4,5
+OD374,Dev,15,01-01-2022 19:21,5,527,Cash on Delivery,49,5,1
+OD375,Srini,14,01-01-2022 15:22,6,1011,Cash on Delivery,27,3,4
+OD376,Farhan,3,01-01-2022 15:22,5,657,Debit Card,35,5,3
+OD377,Gopal,5,01-01-2022 13:39,5,785,Debit Card,20,2,2
+OD378,Sweetie,18,01-01-2022 20:31,5,439,Cash on Delivery,17,1,4
+OD379,Selva,14,01-01-2022 14:20,3,732,Cash on Delivery,17,3,4
+OD380,Rifa,18,01-01-2022 15:22,5,546,Debit Card,20,4,4
+OD381,Revandh,3,01-01-2022 11:17,3,522,Cash on Delivery,43,5,5
+OD382,Shifa,2,01-01-2022 12:19,7,1155,Cash on Delivery,29,1,5
+OD383,Fastin,5,01-01-2022 11:19,4,456,Debit Card,33,2,3
+OD384,Chinny,15,01-01-2022 20:31,6,1062,Debit Card,15,5,2
+OD385,Veronica,1,01-01-2022 13:31,5,1015,Debit Card,25,5,5
+OD386,David,7,01-01-2022 14:21,6,1067,Debit Card,13,5,5
+OD387,Veer,11,01-01-2022 17:39,5,571,Debit Card,16,3,1
+OD388,Shifa,13,01-01-2022 22:01,5,439,Debit Card,12,5,1
+OD389,Srini,15,01-01-2022 20:35,4,460,Cash on Delivery,31,4,5
+OD390,Farhan,6,01-01-2022 14:21,6,1060,Debit Card,49,5,5
+OD391,Srini,19,01-01-2022 19:21,5,534,Credit Card,49,1,2
+OD392,Srini,20,01-01-2022 17:39,6,885,Cash on Delivery,23,1,1
+OD393,David,15,01-01-2022 18:01,4,450,Debit Card,15,2,4
+OD394,Revandh,12,01-01-2022 11:19,5,1047,Credit Card,36,5,3
+OD395,Ram,19,01-01-2022 15:22,7,1035,Credit Card,10,2,4
+OD396,David,17,01-01-2022 23:15,5,1178,Credit Card,25,4,2
+OD397,Selva,16,01-01-2022 23:15,6,895,Cash on Delivery,18,1,2
+OD398,Sweetie,16,01-01-2022 19:21,5,614,Cash on Delivery,32,3,3
+OD399,Dev,10,01-01-2022 23:15,4,434,Credit Card,12,5,5
+OD400,Shifa,20,01-01-2022 11:17,3,585,Debit Card,20,2,5
+OD401,Dev,8,01-01-2022 21:39,4,694,Cash on Delivery,38,2,1
+OD402,Gopal,17,01-01-2022 14:22,6,971,Credit Card,20,2,3
+OD403,Vinny,19,01-01-2022 18:01,7,975,Debit Card,43,2,1
+OD404,Dev,6,01-01-2022 20:31,3,783,Debit Card,19,4,4
+OD405,Revandh,20,01-01-2022 21:31,6,1069,Credit Card,30,2,2
+OD406,Charlie,5,01-01-2022 21:31,5,946,Debit Card,37,2,1
+OD407,Revandh,17,01-01-2022 12:00,4,573,Credit Card,16,3,3
+OD408,Ram,20,01-01-2022 14:21,4,408,Cash on Delivery,40,2,1
+OD409,Sabeena,12,01-01-2022 13:30,5,656,Debit Card,43,1,4
+OD410,Revandh,16,01-01-2022 23:58,5,470,Credit Card,10,2,2
+OD411,Revandh,4,01-01-2022 11:10,5,620,Debit Card,26,1,3
+OD412,Suhaib,19,01-01-2022 21:39,5,1115,Debit Card,22,4,3
+OD413,Revandh,19,01-01-2022 11:19,3,524,Credit Card,43,5,2
+OD414,Rifa,12,01-01-2022 13:31,3,532,Cash on Delivery,22,3,1
+OD415,Meera,4,01-01-2022 11:15,4,420,Credit Card,20,2,5
+OD416,Sabeena,17,01-01-2022 11:10,3,758,Debit Card,23,2,5
+OD417,Dev,18,01-01-2022 20:35,4,514,Debit Card,26,4,1
+OD418,Ram,1,01-01-2022 20:31,3,711,Credit Card,22,3,3
+OD419,Suhaib,11,01-01-2022 23:58,4,733,Cash on Delivery,12,3,5
+OD420,Srini,20,01-01-2022 18:01,5,963,Debit Card,37,5,5
+OD421,Swamy,11,01-01-2022 21:31,4,751,Debit Card,30,3,3
+OD422,Chinny,6,01-01-2022 21:39,3,580,Credit Card,35,4,4
+OD423,Sweetie,20,01-01-2022 11:15,3,749,Credit Card,15,2,4
+OD424,Swamy,5,01-01-2022 13:39,4,404,Cash on Delivery,15,5,4
+OD425,Sweetie,4,01-01-2022 23:15,5,546,Cash on Delivery,11,3,3
+OD426,Farhan,9,01-01-2022 17:39,3,466,Credit Card,39,1,4
+OD427,Selva,17,01-01-2022 14:20,6,837,Credit Card,24,5,3
+OD428,Suhaib,1,01-01-2022 14:31,6,916,Credit Card,25,4,4
+OD429,Shifa,1,01-01-2022 20:31,7,815,Cash on Delivery,40,4,1
+OD430,Selva,12,01-01-2022 20:31,3,570,Debit Card,37,5,4
+OD431,Sweetie,20,01-01-2022 20:35,4,648,Cash on Delivery,46,3,1
+OD432,Sweetie,20,01-01-2022 14:21,3,792,Debit Card,41,1,4
+OD433,Charlie,7,01-01-2022 14:10,4,410,Debit Card,16,4,4
+OD434,Meera,15,01-01-2022 14:21,7,837,Debit Card,50,1,1
+OD435,Veronica,20,01-01-2022 21:31,5,542,Credit Card,49,1,2
+OD436,Dev,17,01-01-2022 20:35,5,565,Cash on Delivery,15,1,5
+OD437,David,15,01-01-2022 11:19,5,1169,Debit Card,43,3,5
+OD438,Sweetie,4,01-01-2022 14:31,5,1017,Cash on Delivery,12,2,3
+OD439,Revandh,12,01-01-2022 14:21,3,770,Credit Card,27,5,4
+OD440,Srini,1,01-01-2022 14:21,5,888,Credit Card,18,4,4
+OD441,Farhan,20,01-01-2022 20:35,5,1102,Debit Card,31,4,2
+OD442,Gopal,8,01-01-2022 14:21,5,1044,Debit Card,43,1,2
+OD443,Ram,7,01-01-2022 11:19,5,1165,Credit Card,46,5,1
+OD444,Farhan,1,01-01-2022 23:58,5,482,Cash on Delivery,26,4,5
+OD445,Charlie,18,01-01-2022 23:15,7,1111,Debit Card,42,5,3
+OD446,Ram,14,01-01-2022 19:21,3,634,Credit Card,11,4,1
+OD447,Chinny,9,01-01-2022 14:31,5,583,Cash on Delivery,15,4,2
+OD448,Charlie,9,01-01-2022 12:19,4,425,Cash on Delivery,22,4,4
+OD449,Charlie,16,01-01-2022 14:22,5,1198,Credit Card,39,5,3
+OD450,Dev,13,01-01-2022 23:58,7,882,Cash on Delivery,25,3,4
+OD451,Sweetie,7,01-01-2022 11:17,6,857,Credit Card,42,4,1
+OD452,Fastin,5,01-01-2022 20:35,5,797,Credit Card,17,3,1
+OD453,Ram,11,01-01-2022 13:30,3,796,Credit Card,41,5,4
+OD454,Gopal,15,01-01-2022 11:10,7,975,Credit Card,37,4,5
+OD455,Veer,4,01-01-2022 14:20,4,663,Debit Card,46,4,3
+OD456,Gopal,11,01-01-2022 23:58,3,699,Debit Card,33,2,3
+OD457,Vinny,6,01-01-2022 19:21,3,520,Debit Card,38,4,4
+OD458,Sabeena,10,01-01-2022 23:15,5,455,Debit Card,48,4,5
+OD459,Sabeena,18,01-01-2022 20:31,5,548,Cash on Delivery,36,5,4
+OD460,Charlie,2,01-01-2022 13:30,7,1128,Credit Card,39,5,4
+OD461,Suhaib,5,01-01-2022 13:39,5,552,Cash on Delivery,45,3,2
+OD462,Rifa,12,01-01-2022 15:22,5,883,Credit Card,12,1,4
+OD463,Meera,13,01-01-2022 14:10,4,555,Debit Card,28,4,1
+OD464,Revandh,1,01-01-2022 20:35,6,859,Debit Card,15,3,5
+OD465,Meera,11,01-01-2022 17:39,4,461,Credit Card,50,2,3
+OD466,David,1,01-01-2022 14:10,7,894,Cash on Delivery,27,3,4
+OD467,Veer,8,01-01-2022 17:39,6,1196,Debit Card,48,2,2
+OD468,Veer,4,01-01-2022 14:31,4,411,Credit Card,32,4,2
+OD469,Chinny,14,01-01-2022 13:39,5,542,Debit Card,39,5,2
+OD470,Vinny,20,01-01-2022 19:21,4,476,Credit Card,37,5,3
+OD471,Fastin,19,01-01-2022 14:10,5,846,Cash on Delivery,17,5,4
+OD472,Rifa,16,01-01-2022 13:31,5,1152,Cash on Delivery,41,4,5
+OD473,Veer,13,01-01-2022 20:31,4,697,Credit Card,50,1,5
+OD474,Veronica,3,01-01-2022 23:15,5,1119,Debit Card,50,5,5
+OD475,Revandh,16,01-01-2022 11:10,6,1171,Debit Card,32,3,3
+OD476,Meera,5,01-01-2022 22:01,5,1031,Credit Card,25,3,1
+OD477,Suhaib,17,01-01-2022 13:31,5,518,Credit Card,28,5,5
+OD478,Srini,4,01-01-2022 14:21,5,885,Cash on Delivery,25,3,4
+OD479,Suhaib,11,01-01-2022 14:31,5,763,Cash on Delivery,25,5,4
+OD480,Selva,11,01-01-2022 21:39,7,827,Credit Card,47,3,4
+OD481,Rifa,2,01-01-2022 13:30,3,549,Credit Card,14,4,1
+OD482,Charlie,12,01-01-2022 14:22,3,505,Credit Card,39,3,5
+OD483,Swamy,4,01-01-2022 15:22,5,653,Credit Card,50,1,5
+OD484,Sabeena,4,01-01-2022 13:39,6,827,Credit Card,38,2,5
+OD485,Farhan,18,01-01-2022 15:22,7,1165,Debit Card,22,1,3
+OD486,Vinny,7,01-01-2022 18:01,5,1021,Debit Card,33,2,5
+OD487,Shifa,18,01-01-2022 14:20,6,896,Credit Card,31,5,1
+OD488,Sabeena,14,01-01-2022 11:10,4,709,Cash on Delivery,25,2,2
+OD489,Ram,18,01-01-2022 18:01,5,547,Debit Card,45,1,1
+OD490,Chinny,4,01-01-2022 11:15,5,596,Credit Card,34,3,4
+OD491,Meera,14,01-01-2022 23:15,4,405,Debit Card,46,4,5
+OD492,Swamy,13,01-01-2022 14:20,5,1046,Cash on Delivery,43,5,1
+OD493,Swamy,9,01-01-2022 19:21,5,875,Credit Card,33,3,4
+OD494,Fastin,8,01-01-2022 13:30,4,557,Cash on Delivery,41,5,5
+OD495,Dev,13,01-01-2022 11:17,7,875,Credit Card,46,2,1
+OD496,Chinny,20,01-01-2022 15:22,6,1184,Cash on Delivery,13,4,2
+OD497,Veronica,17,01-01-2022 13:31,5,541,Credit Card,27,4,3
+OD498,Chinny,10,01-01-2022 21:31,6,1049,Cash on Delivery,27,3,4
+OD499,Charlie,2,01-01-2022 14:10,5,758,Cash on Delivery,29,3,3
+OD500,Sabeena,7,01-01-2022 18:01,3,659,Cash on Delivery,11,4,5
