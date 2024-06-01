@@ -88,6 +88,7 @@ from restaurant r inner join order_details o using(restaurant_id)
 group by restaurant_name
 order by d_rating asc
 limit 5;
+
 alter table order_details  /*Renamed coulmn delivery time taken */
 rename column `delivery_time_taken (mins)` to delivery_time;
 
@@ -149,13 +150,6 @@ group by category
 order by total_sales desc), m as (select sum(total_sales) as sales from k) 
 select category, round((total_sales/ sales), 2) as percent_sales
 from m, k;
-
-
-
-
-
-
-
 
 select count(order_id)
 from order_details;
